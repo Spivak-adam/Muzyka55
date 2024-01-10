@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adam Spivak, @Muzyka55
 - 👀 I’m interested in Software Architecture
-- 🌱 I’m currently learning Software Architecture on Udemy
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently majoring in Computer Science at Oregon State University, and learning Software Architecture on Udemy
 - 📫 How to reach me: Spivaka@oregonstate.edu
 
 <!---
